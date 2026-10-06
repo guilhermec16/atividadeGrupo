@@ -13,12 +13,22 @@ header {
 }
 
 header img {
-    width: 150px;
+    width: 130px;
     border-radius: 50%;
 }
 
-h1 {
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
     margin: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
 
 main {
