@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #eef7f1;
+    color: #222;
+}
+
+header {
+    background: #0b4f3c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    margin: 10px;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+}
+
+h2 {
+    color: #0b7a55;
+}
+
+p {
+    line-height: 1.5;
+}
