@@ -1,2 +1,0 @@
-# atividadeGrupo
-little joe max
